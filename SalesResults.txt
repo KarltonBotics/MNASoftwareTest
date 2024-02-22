@@ -1,0 +1,5 @@
+TOTAL ACUMULADO DE VENTAS: 
+2481.8600000000006
+
+
+tiempo de ejecución en milisegundos: 0.999451
